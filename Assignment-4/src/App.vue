@@ -89,14 +89,17 @@ main {
 #movie-name {
   margin-bottom: 2rem;
 }
+
 main > * {
   margin: 1rem;
 }
+
 #movies {
   text-align: center;
   font-size: 20px;
   background-color: white;
 }
+
 #button {
   font-size: 20px;
   height: 30px;
@@ -115,6 +118,7 @@ main > * {
 #information > * {
   margin: 1rem;
 }
+
 #flex {
   display: flex;
 }
